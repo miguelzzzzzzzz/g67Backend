@@ -84,3 +84,4 @@ bpy.ops.wm.obj_export(
 )
 
 print(f"Model exported as OBJ to {obj_output_path}")
+print("WOW")
