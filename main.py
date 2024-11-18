@@ -15,7 +15,7 @@ def generate_model():
         # Command to execute Blender
         blender_command = [
             "blender",
-            "C:\\Users\\migzuu\\Downloads\\Adjustable+Mannequin+v1.2\\Adjustable Mannequin v1.2.blend",
+            "C:\\Users\\migzuu\Downloads\\testBlend-20241118T080845Z-001\\testBlend\\test.blend",
             "--background",
             "--python",
             "randomize_bones.py"
